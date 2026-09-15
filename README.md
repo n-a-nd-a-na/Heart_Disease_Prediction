@@ -1,7 +1,7 @@
 # Heart Disease Prediction
 
 ## Project Overview
-''' This project predicts whether a person is likely to have heart disease using Machine Learning.
+This project predicts whether a person is likely to have heart disease using Machine Learning.
 
 ### Technologies Used
 
